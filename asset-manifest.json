@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.ab39586a.css",
+    "main.js": "/my-app/static/js/main.4672309f.js",
+    "index.html": "/my-app/index.html",
+    "static/media/pass--hidden--hover.svg": "/my-app/static/media/pass--hidden--hover.06f4c4120320fc1d1ec8.svg",
+    "static/media/pass--hidden.svg": "/my-app/static/media/pass--hidden.c003593fd1b4bb613799.svg",
+    "static/media/pass--shown--hover.svg": "/my-app/static/media/pass--shown--hover.e6e6d84ca2abd9d4dcdf.svg",
+    "static/media/pass--shown.svg": "/my-app/static/media/pass--shown.ce554bdd6d5f898b4a27.svg",
+    "main.ab39586a.css.map": "/my-app/static/css/main.ab39586a.css.map",
+    "main.4672309f.js.map": "/my-app/static/js/main.4672309f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab39586a.css",
+    "static/js/main.4672309f.js"
+  ]
+}
